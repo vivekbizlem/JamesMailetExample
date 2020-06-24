@@ -36,7 +36,7 @@ public class SendMailCCAndBccAttachment {
 	public static void main(String[] args) {
 		SendMailCCAndBccAttachment sm=new SendMailCCAndBccAttachment();
         // Message info       
-        String[] to = { "vivek.tripathi@bizlem.com"}; // list of recipient email addresses
+        String[] to = { "abhishek.bizlem@gmail.com"}; // list of recipient email addresses
         String[] cc={};
         String[] bcc={};
         String subject = "Test Mail with DOCX";
@@ -44,8 +44,8 @@ public class SendMailCCAndBccAttachment {
         		+ "<table><tr>sad</tr></table></body></html>";	
         String[] attachments= {};
 		String attachmentPath="";
-		String fromId="test1@algovista.com";
-		String fromPass="test12";
+		String fromId="abhishek@fetchmypayments.com";
+		String fromPass="a1b2hishek";
 		try {
 			sm.sendFromGMail(fromId,fromPass,to, cc, bcc, subject, body,  attachments,attachmentPath);
 			System.out.println("Email Sent....!");
