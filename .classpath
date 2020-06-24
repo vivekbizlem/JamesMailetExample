@@ -2,16 +2,16 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="D:/vivek/FMP/jar_files/activation-1.1.1.jar"/>
-	<classpathentry kind="lib" path="D:/vivek/FMP/jar_files/apache-mailet-api-3.0.0.jar"/>
-	<classpathentry kind="lib" path="D:/vivek/FMP/jar_files/apache-mailet-base-3.0.0.jar"/>
-	<classpathentry kind="lib" path="D:/vivek/FMP/jar_files/apache-mime4j-core-0.8.1.jar"/>
-	<classpathentry kind="lib" path="D:/vivek/FMP/jar_files/commons-lang-2.6.jar"/>
-	<classpathentry kind="lib" path="D:/vivek/FMP/jar_files/guava-18.0.jar"/>
-	<classpathentry kind="lib" path="D:/vivek/FMP/jar_files/javax.mail-1.5.4.jar"/>
-	<classpathentry kind="lib" path="D:/vivek/FMP/jar_files/slf4j-api-1.7.7.jar"/>
-	<classpathentry kind="lib" path="D:/vivek/FMP/jar_files/json-20140107.jar"/>
-	<classpathentry kind="lib" path="D:/vivek/FMP/jar_files/activemq-all-5.10.0.jar"/>
-	<classpathentry kind="lib" path="D:/vivek/FMP/jar_files/javax.jms-api-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/omnichannelCaseLead/apachejames_vivek_sir/javax.jms-api-2.0-b07.jar"/>
+	<classpathentry kind="lib" path="D:/omnichannelCaseLead/apachejames_vivek_sir/apache-mailet-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/omnichannelCaseLead/apachejames_vivek_sir/apache-mailet-base-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/omnichannelCaseLead/apachejames_vivek_sir/apache-mime4j-core-0.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/omnichannelCaseLead/apachejames_vivek_sir/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/omnichannelCaseLead/apachejames_vivek_sir/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/doctiger/allprojects/NewMailDev_24_10_19/NewMailDev/WebContent/WEB-INF/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/doctiger/allprojects/NewMailDev_24_10_19/NewMailDev/WebContent/WEB-INF/lib/javax.mail-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/scorpio_pdf_broker/notdate/ConsumerListionerOmniChannel/WebContent/WEB-INF/lib/activemq-all-5.15.9.jar"/>
+	<classpathentry kind="lib" path="D:/scorpio_pdf_broker/notdate/ConsumerListionerOmniChannel/WebContent/WEB-INF/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="D:/omnichannelCaseLead/apachejames_vivek_sir/slf4j-api-1.7.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
